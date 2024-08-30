@@ -165,11 +165,16 @@ Para testar os efeitos e modulações descritos, utilize os seguintes arquivos d
 
 - `guitar.wav`: Arquivo de áudio de guitarra para efeitos como vibrato e phaser estéreo.  
 - `child-voice-sound.wav`: Arquivo de áudio de voz infantil para modulação SSB.
+- `modulator.wav`: Arquivo de áudio para o sinal modulador no efeito Vocoder.
+- `carrier.wav`: Arquivo de áudio para o sinal portador no efeito Vocoder.
 
 **Sugestões de Utilização**  
 - **Efeito Vibrato**: Use `guitar.wav` para observar o impacto do vibrato na guitarra.  
-- **Efeito Estéreo Phaser**: Aplique em `guitar.wav` para experimentar o efeito de phaser estéreo.  
+- **Efeito Estéreo Phaser**: Aplique em `guitar.wav` para experimentar o efeito de phaser estéreo.
+- **Efeito Tremolo**: Utilize `guitar.wav` para testar o efeito de tremolo.
+- 
 - **Modulação SSB**: Utilize `child-voice-sound.wav` para visualizar como a modulação SSB afeta a voz.
+- **Efeito Vocoder**: Use `modulator.wav` e `carrier.wav` para combinar os sinais e criar um som sintetizado com modulação de banda.
 
 ## 14. Referências
 
